@@ -1,3 +1,3 @@
 # Hash_Table
 
-**->Own hast table for training<-**
+**->Own hash table for training<-**
