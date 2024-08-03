@@ -18,9 +18,9 @@ private:
 	bool		isKeyIn		(keyType key);
 public:
 	/* Init */
-	map						();
-	map						(valueType value, keyType key);
-	~map					();
+	map				();
+	map				(valueType value, keyType key);
+	~map				();
 	/* Methods */
 	void		include		(valueType value, keyType key);
 	valueType	findValue	(keyType key);
